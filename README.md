@@ -1,7 +1,6 @@
 # Links link
 
 ## Today
-* Learning to learn lesson 2
 * Review
 * [2048Demo](https://replit.com/@mrDonoghue/demo)
 * [2048?! repl](https://replit.com/team/CS9-Block7-2223/2048)
