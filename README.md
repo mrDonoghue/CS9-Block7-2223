@@ -13,4 +13,4 @@
 * [2048Demo](https://replit.com/@mrDonoghue/demo)
 
 ## Extra
-* [Extra0](https://replit.com/team/CS9-Block7-2223/Lab0AreaCalc)
+* [Extra0](https://replit.com/team/CS9-Block7-2223/Extra0)
