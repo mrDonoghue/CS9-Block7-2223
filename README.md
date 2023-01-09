@@ -1,9 +1,8 @@
 # Links link
 
 ## Today
-* Review
+* [Warmup](https://replit.com/team/CS9-Block7-2223/SpringSemesterWarmup)
 * [TextGameLearn](https://replit.com/team/CS9-Block7-2223/TextGameLearn)
-* [Zork](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon)
 
 ## Old
 * [Join the replit course](https://replit.com/teams/join/jlplrljckmbtglcgmgswxiqjodhlokvf-CS9-Block7-2223)
