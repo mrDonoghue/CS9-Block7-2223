@@ -1,7 +1,7 @@
 # Links link
 
 ## Today
-* [Warmup](https://replit.com/team/CS9-Block7-2223/SpringSemesterWarmup)
+<!-- * [Warmup](https://replit.com/team/CS9-Block7-2223/SpringSemesterWarmup) -->
 * [TextGameLearn](https://replit.com/team/CS9-Block7-2223/TextGameLearn)
 
 ## Old
