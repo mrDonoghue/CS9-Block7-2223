@@ -3,6 +3,7 @@
 ## Today
 <!-- * [Warmup](https://replit.com/team/CS9-Block7-2223/SpringSemesterWarmup) -->
 * [TextGameLearn](https://replit.com/team/CS9-Block7-2223/TextGameLearn)
+    - [borrow this code](files/TextGameLearn0.md)
 
 ## Old
 * [Join the replit course](https://replit.com/teams/join/jlplrljckmbtglcgmgswxiqjodhlokvf-CS9-Block7-2223)
