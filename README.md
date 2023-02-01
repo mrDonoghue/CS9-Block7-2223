@@ -2,6 +2,7 @@
 
 ## Today
 <!-- * [Warmup](https://replit.com/team/CS9-Block7-2223/SpringSemesterWarmup) -->
+* [TextGameVertSlice](https://replit.com/team/CS9-Block7-2223/TextGameVertSlice)
 * [TextGameLearn](https://replit.com/team/CS9-Block7-2223/TextGameLearn)
     - [borrow this code](files/TextGameLearn0.md)
 
