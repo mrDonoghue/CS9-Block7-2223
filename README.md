@@ -1,7 +1,8 @@
 # Links link
 
 ## Today
-<!-- * [Warmup](https://replit.com/team/CS9-Block7-2223/SpringSemesterWarmup) -->
+* DO SOMETHING TODAY!!! I WILL CHECK!! [Instructions](https://docs.google.com/document/d/1Lm-O-qqFA8OlXplEnPNnodsoD85YzImpyw7Qa8W0yKI/edit?usp=sharing)
+* [Video notes repl](https://replit.com/team/CS9-Block7-2223/0515)
 * [TextGameLab](https://replit.com/team/CS9-Block7-2223/TextGameLab)
 * [TextGameVertSlice](https://replit.com/team/CS9-Block7-2223/TextGameVertSlice)
 * [TextGameLearn](https://replit.com/team/CS9-Block7-2223/TextGameLearn)
